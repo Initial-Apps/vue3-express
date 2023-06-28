@@ -1,0 +1,25 @@
+{
+  "name": "vue3-express",
+  "version": "1.0.0",
+  "description": "A simple starter Vue3 app using Vite, with ExpressJS and NodeJS on the backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Initial-Apps/vue3-express.git"
+  },
+  "keywords": [
+    "Vue3",
+    "Vite",
+    "Expressjs",
+    "Nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Initial-Apps/vue3-express/issues"
+  },
+  "homepage": "https://github.com/Initial-Apps/vue3-express#readme"
+}
