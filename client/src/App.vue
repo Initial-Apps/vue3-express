@@ -7,7 +7,7 @@
           placeholder="Enter Anything"
           v-model="testInput"
         />
-        <input type="submit" value="Generate names" />
+        <input type="submit" value="Test Server" />
       </form>
       <div class="result">{{result}}</div>
     </main>
